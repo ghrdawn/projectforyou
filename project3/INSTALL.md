@@ -13,7 +13,7 @@
 	
 	Open Docker desktop and check for **my_assesment** project having 5 containers as below
 
-	  ![docker-desktop](https://github.com/projectforyou/project1/blob/main/pictures/docker-desktop-containers.png)
+	  ![docker-desktop](https://github.com/ghrdawn/projectforyou/blob/main/project3/pictures/docker-desktop-containers.png)
 
 3. Spin-up Spark cluster: 
 	a. Open shell and run the below lines
