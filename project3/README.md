@@ -49,7 +49,7 @@ This challenge is composed of following steps:
 - PySpark should be used
 - Feel free to use any libraries (you can use pip install, if needed)
 - Use a visualization library to present your analysis results.
-- Any learnings/ challenges/ considerations/ assumptions, please document in [MyDocument.md](https://github.com/projectforyou/project1/blob/main/MyDocument.md)
+- Any learnings/ challenges/ considerations/ assumptions, please document in [MyDocument.md](https://github.com/ghrdawn/projectforyou/blob/main/project3/MyDocument.md)
 
 ## Technical Support:
 
@@ -65,15 +65,15 @@ This challenge is composed of following steps:
 2. Push the cloned repo into **your own** Github account.
      - **Please don't commit anything to the parent repo, everything should be done in your own Github repo**.
      
-3. Follow the installation instructions in [INSTALL.md](https://github.com/projectforyou/project1/blob/main/INSTALL.md)
+3. Follow the installation instructions in [INSTALL.md](https://github.com/ghrdawn/projectforyou/blob/main/project3/INSTALL.md)
 4. Open the Jupyter notebook home page, using the link similar to the one highlighted in the picture 
 
-  ![jupyter-notebook](https://github.com/projectforyou/project1/blob/main/pictures/docker-compose.png)
+  ![jupyter-notebook](https://github.com/ghrdawn/projectforyou/blob/main/project3/pictures/docker-compose.png)
 
 5. Open the notebook (assesment_notebook.ipynb). 
 6. Read the documentation and run the cells accordingly. Once you create a spark session you should be able to see application **pyspark-assesment** running in the Spark Master UI as below. 
 
-  ![spark-application](https://github.com/projectforyou/project1/blob/main/pictures/spark-application.png)
+  ![spark-application](https://github.com/ghrdawn/projectforyou/blob/main/project3/pictures/spark-application.png)
 
 By now you would have already have below things in place:
 
