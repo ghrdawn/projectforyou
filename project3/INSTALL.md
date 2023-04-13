@@ -26,5 +26,5 @@
 	
    	Validate if Spark Cluster is up and running in the Spark Master UI with 2 worker nodes -
 	
-   	![spark-master-ui](https://github.com/projectforyou/project1/blob/main/pictures/spark-master-ui.png)
+   	![spark-master-ui](https://github.com/ghrdawn/projectforyou/blob/main/project3/pictures/spark-master-ui.png)
 
